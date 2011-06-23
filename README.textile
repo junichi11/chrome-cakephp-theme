@@ -1,6 +1,8 @@
 h1. chrome-cakephp-theme
+
 theme file for Google chrome.
 
 h2. Install
+ 
 Drag and drop the *.crx file into the browser.
 
