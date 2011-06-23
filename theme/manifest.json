@@ -1,1 +1,42 @@
-{"version":"1","name":"chrometheme","description":" ","theme":{"images":{"theme_frame":"images\/theme_frame.png","theme_ntp_background":"images\/theme_ntp_background.png"},"colors":{"frame":[0,61,76],"frame_inactive":[161,182,228],"frame_incognito":[83,106,139],"frame_incognito_inactive":[126,139,156],"toolbar":[227,116,116],"tab_text":[0,0,0],"tab_background_text":[64,64,64],"bookmark_text":[18,50,114],"ntp_background":[156,187,195],"ntp_text":[0,0,0],"ntp_link":[0,61,76],"ntp_header":[0,61,76],"ntp_section":[255,255,255],"ntp_section_text":[0,0,0],"ntp_section_link":[6,55,116],"control_background":[0,0,0,0],"button_background":[0,0,0,0]},"properties":{"ntp_background_alignment":"bottom","ntp_background_repeat":"no-repeat"},"tints":{"buttons":[-1,-1,-1],"frame":[-1,-1,-1],"frame_inactive":[-1,-1,0.75],"frame_incognito":[-1,0.2,0.35],"frame_incognito_inactive":[-1,0.3,0.6],"background_tab":[-1,0.5,0.75]}}}
+{
+	"version":"1",
+	"name":"chrometheme",
+	"description":" ",
+	"theme":{
+		"images":{
+			"theme_frame":"images\/theme_frame.png",
+			"theme_ntp_background":"images\/theme_ntp_background.png"
+		},
+		"colors":{
+			"frame":[0,61,76],
+			"frame_inactive":[161,182,228],
+			"frame_incognito":[83,106,139],
+			"frame_incognito_inactive":[126,139,156],
+			"toolbar":[227,116,116],
+			"tab_text":[0,0,0],
+			"tab_background_text":[64,64,64],
+			"bookmark_text":[18,50,114],
+			"ntp_background":[156,187,195],
+			"ntp_text":[0,0,0],
+			"ntp_link":[0,61,76],
+			"ntp_header":[0,61,76],
+			"ntp_section":[255,255,255],
+			"ntp_section_text":[0,0,0],
+			"ntp_section_link":[6,55,116],
+			"control_background":[0,0,0,0],
+			"button_background":[0,0,0,0]
+		},
+		"properties":{
+			"ntp_background_alignment":"bottom",
+			"ntp_background_repeat":"no-repeat"
+		},
+		"tints":{
+			"buttons":[-1,-1,-1],
+			"frame":[-1,-1,-1],
+			"frame_inactive":[-1,-1,0.75],
+			"frame_incognito":[-1,0.2,0.35],
+			"frame_incognito_inactive":[-1,0.3,0.6],
+			"background_tab":[-1,0.5,0.75]
+		}
+	}
+}
